@@ -4,37 +4,13 @@ CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
 Group A: Short Questions (2 Marks)
 1. Define the term “Protocol” in the context of the Internet.
 
-A protocol is a set of rules that decide how data is sent, received, and understood between devices on the Internet. Example: HTTP, FTP.
+ --> A protocol is a set of rules that decide how data is sent, received, and understood between devices on the Internet. Example: HTTP, FTP.
 
 2. What is the primary difference between a Web Browser and a Search Engine?
 
-A web browser is software used to open websites (example: Chrome, Firefox).
-A search engine is a website that helps find information on the Internet (example: Google, Bing).
+ --> A web browser is software used to open websites (example: Chrome, Firefox).
+  A search engine is a website that helps find information on the Internet (example: Google, Bing).
 
 3. Define the World Wide Web (WWW).
 
-The World Wide Web (WWW) is a collection of web pages that are connected through links and can be accessed using the Internet.
-
-4. Distinguish between a static web page and a dynamic web page.
-Static Web Page	Dynamic Web Page
-Content does not change	Content changes based on user or time
-Same for all users	Different for different users
-Simple and low cost	More complex and costly
-Group B: Long Questions (4 Marks)
-5. Explain the client-server architecture of the web with a neat diagram.
-
-In client-server architecture, the client (browser) requests information, and the server sends the response.
-
-Explanation:
-
-Client: User’s web browser (Chrome, Edge)
-
-Server: Computer where the website is stored
-
-The client sends a request
-
-The server processes it and sends back data
-
-Diagram:
-
-Client (Browser)  ---> Reques
+--> The World Wide Web (WWW) is a collection of web pages that are connected through links and can be accessed using the Internet.
