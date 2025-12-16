@@ -14,3 +14,12 @@ Group A: Short Questions (2 Marks)
 3. Define the World Wide Web (WWW).
 
 --> The World Wide Web (WWW) is a collection of web pages that are connected through links and can be accessed using the Internet.
+4. Differentiate between Front-end and Back-end development.
+--> The  differentiate between Front-end and Back-end development.
+
+here we go; 
+# Front-end Development: It is interface of website deal with user. It use the languages like HTML,CSS, JavaScript,ect. It runs in web browser. 
+It mainly handles buttons, forms, images, and menus,ect.
+
+#Back-end Development: It deeals with the server side logic of a website, work behind the scenes. It focuses on the data processing and business logic. It uses languages like 
+Java,Python, PHP,NOde.js,ect. It runs on the server. It handles databasess, authentication, and APIs.
