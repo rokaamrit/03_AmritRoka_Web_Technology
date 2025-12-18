@@ -1,7 +1,7 @@
 
 CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
 
-Group A: Short Questions (2 Marks)
+Group A: Short Questions 
 1. Define the term “Protocol” in the context of the Internet.
 
  --> A protocol is a set of rules that decide how data is sent, received, and understood between devices on the Internet. Example: HTTP, FTP.
@@ -23,3 +23,59 @@ It mainly handles buttons, forms, images, and menus,ect.
 
 #Back-end Development: It deeals with the server side logic of a website, work behind the scenes. It focuses on the data processing and business logic. It uses languages like 
 Java,Python, PHP,NOde.js,ect. It runs on the server. It handles databasess, authentication, and APIs.
+
+Group B:
+5. Explain the client-server architecture of the web with a neat diagram.
+--> Client-server architecture is a model where two types of computers work together: client and server. 
+-The client (web browser like Chrome) sends a request for a webpage. 
+-The server (web server) recerives the request, processes it, and sends back the required webpage. 
+ ( Don't know how to draw in here ???????????)
+
+6. Describe the functions of the following Internet services: Email, FTP, and VoIP.
+-->  Email: Email is used to send and receive electronic messages over the Internet. It supports tesxt, 
+images, and file attachments and is fast and low cost. 
+
+FTP(File Transfer Protocol):FTP is used to upload and download files between a client and a server. It is 
+commonly used for website file management. 
+VoIP(VOice over Internet Protocol): VoIP allows people to make voice calls usign the Internet instead of 
+traditional telephone lines (e.g., WhatsApp calss, Skype).
+
+7. “The Internet is a network of networks.” Elaborate on this statement explaining how packet switching 
+works.
+--> The Internet connnects many smaller networks (home, office, ISP networks) together, so it is called a 
+netwrok of networks. 
+In packet switching, data is broken into small packets. Each packet travels independently through different 
+paths to reach the destination. At the destination, packets are reassemled into the original message.
+This method makes data transmission fast, efficient, and reliable.
+
+Group C:
+8. A startup company wants to host a website that displays the same information to all visitors and
+requires very low maintenance costs. However, they are being advised to use a dynamic website.
+As a consultant, would you agree? Justify your answer.
+--> No, I would not agree. A static website is more suitable because the content is the same for all 
+users and requires low maintaince and cost. Dynamic websites need databases and regular updtes, which increase
+cost and complexity. Therefore, a static website is the best choice. 
+
+9. A user types www.google.com
+ into their browser, but the browser displays a “Server Not Found” error, even though the internet connection
+is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain 
+the underlying technology that failed.
+--> The problem is with the DNS(Domain Name System). DNS converts domain names (www.google.com) into 
+IP addresses. Scince the webiste opens using the IP address, the server is working, but DNS failed to resolve 
+the domain name.
+
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does
+not want this information available to the general public. Explain which network type (Intranet, Extranet,
+or Internet) they should implement and why they should use an Extranet.
+--> An extranet allows controlled access to authorized external users like suppliers while keeping data 
+secure. It is not open to the public and is more suitable than the Internet or Intranet for this purpose.
+
+     Thank you Chapter One Complete ( An Overview of the Internet and the web)
+
+
+
+
+
+
+
+
