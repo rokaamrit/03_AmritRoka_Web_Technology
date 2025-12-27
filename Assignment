@@ -1,1 +1,141 @@
 
+Group A: Short Questions (2 Marks)
+
+1. Define the term “Sitemap” in the planning phase.
+
+--> A sitemap is a structured list or diagram that shows all the pages of a website and how they are connected to each other.
+    It acts like a map of the website, helping developers and designers understand the site structure before development starts.
+    During the planning phase, a sitemap helps organize content clearly and ensures users can navigate the website easily.
+
+2. What is the purpose of the “Launch” phase in web development?
+
+--> The launch phase is the stage where the completed website is made live on the internet for users to access. Its purpose is
+    to upload the website to the server, connect the domain name, and ensure everything works in the real environment. This phase
+    also includes final checks, backups, and making the website available to the public.
+
+3. Why is “Documentation” important in the development lifecycle?
+
+--> Documentation is important because it records all technical details, design decisions, features, and instructions related to
+    the website. It helps developers understand how the system works, makes future updates easier, and allows new developers to work
+    on the project without confusion. Good documentation saves time and reduces errors during maintenance.
+
+4. Differentiate between Front-end and Back-end development.
+
+--> The different between Front-end and Back-end develpment are;
+
+    Front-end development: It deals with the part of the website that users see and interact with, such as layout, colors, buttons, and forms.
+    It uses technologies like HTML, CSS, and JavaScript.
+
+    Back-end development: It  handles the server-side operations like databases, user authentication, and data processing. It uses programming
+    languages like PHP, Java, Python, or Node.js and ensures the website works correctly behind the scenes.
+
+
+Group B: Long Questions (4 Marks)
+
+5. “Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the
+    planning phase.
+
+--> Planning is the most critical phase because it lays the foundation of the entire website. If planning is weak, problems will appear
+    later during development or after launch. Proper planning saves time, cost, and effort.
+
+    Key activities during the planning phase include:
+
+    Defining goals and objectives of the website
+
+    Identifying the target audience
+
+    Creating a sitemap to organize pages
+
+    Deciding features and functionality
+
+    Choosing technology and tools
+
+    Setting budget and timeline
+
+    Without proper planning, developers may build the wrong features or structure, leading to client dissatisfaction.
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly “finished”?
+
+--> The maintenance phase is iterative, meaning it repeats continuously. A website needs regular updates even after launch.
+    Technology changes, user needs evolve, and new issues appear over time.
+
+    A website is never truly “finished” because:
+
+    Content needs updates
+
+    Bugs and errors must be fixed
+
+    Security threats change
+
+    New features may be required
+
+    Performance needs improvement
+
+    Maintenance includes updating content, fixing broken links, improving security, and optimizing performance, making it an ongoing process.
+
+
+7. Describe the process of “Information Gathering.” Why is understanding the target audience crucial during this step?
+
+--> Information gathering is the first step in web development where developers collect all necessary details about the project.
+    This includes understanding client requirements, business goals, content needs, and user expectations.
+
+    Understanding the target audience is crucial because:
+
+    It helps design a user-friendly interface
+
+    Content can be written in the right tone
+
+    Features can match user needs
+
+    Navigation becomes easier
+
+    If the target audience is not understood, the website may fail to attract or retain users.
+
+
+Group C: Scenario-Based Questions (5 Marks)
+
+8. You are the project manager for a new e-commerce site. The client wants to skip the “Testing” phase to save money and
+ launch early. Write a persuasive argument explaining the potential risks of skipping this phase.
+
+--> Skipping the testing phase can cause serious problems for an e-commerce website. Without testing, security vulnerabilities
+    may allow hackers to steal customer data or payment information. Functional errors such as broken checkout systems or incorrect 
+    pricing can lead to loss of sales. Compatibility issues may cause the site to fail on mobile devices or different browsers. 
+    Testing ensures the website is safe, reliable, and user-friendly, and skipping it can damage the company’s reputation and
+    customer trust.
+
+
+ 9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap.
+    Midway through, the client rejects the layout. Analyze what went wrong and how it should have been handled.
+
+--> The main problem was skipping the planning and design phases. Without a sitemap or design prototype, there was no clear
+    agreement on layout and structure. As a result, the client’s expectations were not met.
+
+    This should have been handled by:
+
+    Creating a sitemap first
+
+    Designing wireframes or mockups
+
+    Getting client approval before coding
+
+    Proper planning and approval reduce rework, save time, and ensure client satisfaction.
+
+
+10. A university website was launched successfully, but after six months, students stopped visiting it because the 
+    exam schedules were outdated. Which phase was neglected? Explain the activities involved in this phase.
+
+--> The maintenance phase was neglected. This phase is responsible for keeping the website updated and relevant after launch.
+
+    Activities involved in the maintenance phase include:
+
+    Updating content regularly
+
+    Adding new information
+
+    Fixing errors and broken links
+
+    Improving security
+
+    Monitoring performance
+
+    If maintenance is ignored, users lose trust and stop visiting the website, as seen in this case.
